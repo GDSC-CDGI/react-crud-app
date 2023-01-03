@@ -1,0 +1,12 @@
+.back-btn{
+    text-decoration: none;
+}
+.submit-btn{
+    background-color: rgb(4, 234, 158);
+    border: none;
+    color: rgb(5, 55, 39);
+    font-weight: bold;
+}
+.submit-btn:hover{
+    background-color: rgb(6, 82, 58);
+}

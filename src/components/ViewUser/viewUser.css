@@ -1,0 +1,11 @@
+.update-btn, .delete-btn{
+    float: right;
+    margin-right: 20px;
+}
+.update-btn:hover{
+    background-color: rgb(8, 105, 66);
+}
+
+.delete-btn:hover{
+    background-color: rgb(184, 17, 17);
+}
